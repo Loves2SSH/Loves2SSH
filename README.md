@@ -8,6 +8,13 @@
 </div>
 
 ---
+<table style="width:100%;table-layout:fixed;"> 
+  <tr>
+<td width="600" valign="top">
+```zsh
+
+
 <td width="15">
 <img src="./Assets/bb.gif" height="300" width="300">
+</td>
 </td>
