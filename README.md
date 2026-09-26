@@ -6,5 +6,8 @@
 </div>
 
 </div>
+
 ---
+<td width="15">
 <img src="./Assets/bb.gif" height="300" width="300">
+</td>
