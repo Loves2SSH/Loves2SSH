@@ -12,7 +12,10 @@
   <tr>
 <td width="600" valign="top">
 ```zsh
-
+root@Killiza
+```
+```ini
+ [About me]
 
 <td width="15">
 <img src="./Assets/bb.gif" height="300" width="300">
